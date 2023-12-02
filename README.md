@@ -1,4 +1,4 @@
-# ECSE556 Homework 1
+# Machine Learning Techniques for Transcriptomic Data Analysis
 
 The goal of this homework is to study _transcriptomic data_ (expression of thousands of genes), corresponding to hundreds of cell lines, using different Machine Learning techniques.
 
@@ -9,3 +9,5 @@ Prior to running the code, you'll need to create a folder called `data`, contain
 A `requirement.txt` is provided to reproduce the python (version 3.11.4) environment used.
 
 `nested_scores.pkl` contains the results of the nested cross validation hyperparameter optimization for the LASSO regression model.
+
+This project was part of the ECSE556 : Deep Learing for Biology course, at McGill University.
