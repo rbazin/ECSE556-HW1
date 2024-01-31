@@ -1,6 +1,6 @@
 # Machine Learning Techniques for Transcriptomic Data Analysis
 
-The goal of this homework is to study _transcriptomic data_ (expression of thousands of genes), corresponding to hundreds of cell lines, using different Machine Learning techniques.
+The goal of this homework is to study _transcriptomic data_ (expression of thousands of genes), corresponding to hundreds of cell lines, using multiple regression and clustering Machine Learning techniques.
 
 All the code necessary to reproduce the results of the report can be run from the `notebook.ipynb` file.
 
